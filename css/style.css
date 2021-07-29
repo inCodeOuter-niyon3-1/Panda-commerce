@@ -1,0 +1,22 @@
+.bg_info {
+  background-color: #fceae8;
+}
+.catagories img {
+  width: 100px;
+}
+.img-1 {
+  background: #ffa500;
+}
+.img-2 {
+  background: #da70d6;
+}
+.img-3 {
+  background: #0000ff;
+}
+.btn_primary {
+  display: inline-block;
+  padding: 5px 10px;
+  border-radius: 6px;
+  color: white;
+  background: #ff408b;
+}
